@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Blog time
+**stuff**
 
-I'm glad you are here. I plan to talk about ...
+_also, stuff_
+
+
